@@ -7,6 +7,7 @@ Data used is a sample data which does not reflect of any business in particular 
 
 Note:
 - To access the app locally on R Studio, download the files in the repository and save them in the same directory.
-- Change the name of the directory in the code. 
+- Change the name of the directory in the code to where you stored the files:
+  setwd("C:/Users/User/MY DIRECTORY")
 
 Please contact yjeon009@uottawa.ca for questions.
