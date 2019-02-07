@@ -2,7 +2,7 @@
 
 This interactive R Shiny application helps business find customer groups they can focus on as part of marketing strategy.
 
-Business owners can not only easily filter their data by date and time, they can also further filter by total number of traffic(number of store visit) and amount ($) spent at the store.
-The app shows a filtered list of customers and a summary of preference and acitivies at store for each customer.
+Business owners can easily filter their data by date and time. Data can be further filtered by number of visits, amount and tip spent by a customer to identify a group of customers. The purpose of the app is to show the feasibility of having a customized tool to aid business management. Additionally, filtered data can be downloaded.
+Data used is a sample data which does not reflect of any business in particular and is used only as a demonstration of the app.
 
 Please contact yjeon009@uottawa.ca for questions.
