@@ -1,4 +1,4 @@
-#Make sure to check if following packages are installed first before loading them
+#Make sure to check if following packages are installed in your R Studio before loading them
 
 library(shiny) #shiny web application
 library(plotly) #for interactive plot
