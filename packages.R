@@ -9,5 +9,4 @@ library(tidyr) #to separate a column into two
 library(tidyverse)
 library(ggplot2)
 library(DT) #interactive datatable
-library(rsconnect) #to host the application on website
 library(shinythemes) #to choose different themes
